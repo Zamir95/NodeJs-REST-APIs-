@@ -1,0 +1,1 @@
+SELECT * FROM heroku_3fe06f27ca0b5a8.posts;
